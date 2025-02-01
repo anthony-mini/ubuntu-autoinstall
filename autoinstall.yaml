@@ -2,10 +2,9 @@
 autoinstall:
   version: 1
   identity:
-    hostname: mon-ubuntu
-    realname: "Utilisateur"
+    hostname: ubuntu
     username: "user"
-    password: "$6$salty$PASSWORD_HASH"
+    password: "user"
   keyboard:
     layout: "fr"
   locale: "fr_FR.UTF-8"
